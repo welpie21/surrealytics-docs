@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile
+        id="hi"
+        name="Surrealytics Docs"
+        start-page="Introduction.md"
+        is-library="true"
+        status="eap"
+>
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="Installation.md">
+        <toc-element topic="Docker.md"/>
+    </toc-element>
+    <toc-element topic="Endpoints.md">
+        <toc-element topic="HTTP-endpoints.md"/>
+    </toc-element>
+    <toc-element topic="SDKs.md">
+        <toc-element topic="Node-js.md"/>
+        <toc-element topic="Javascript-Typescript.md"/>
+    </toc-element>
+    <toc-element topic="Roadmap.md">
+        <toc-element topic="2024.md"/>
+        <toc-element topic="Roadmap-2025.md"/>
+    </toc-element>
+    <toc-element topic="Changelogs.md"/>
+</instance-profile>

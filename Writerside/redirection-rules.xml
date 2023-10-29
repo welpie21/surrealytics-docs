@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2fd7509d">
+        <description>Created after removal of "General" from Help Instance</description>
+        <accepts>General.html</accepts>
+    </rule>
+    <rule id="35e061e7">
+        <description>Created after removal of "HTTP" from Help Instance</description>
+        <accepts>HTTP.html</accepts>
+    </rule>
+    <rule id="16ac1cd9">
+        <description>Created after removal of "How to" from Surrealytics Docs</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+</rules>

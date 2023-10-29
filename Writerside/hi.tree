@@ -10,6 +10,7 @@
         status="eap"
 >
     <toc-element topic="Introduction.md"/>
+    <toc-element topic="Design.md"/>
     <toc-element topic="Installation.md">
         <toc-element topic="Docker.md"/>
     </toc-element>
